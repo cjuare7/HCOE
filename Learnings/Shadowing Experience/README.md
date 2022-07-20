@@ -1,7 +1,7 @@
 # Shadowing Experience
 
 ## Summer 2022 Content Topic Champions
-* [YOUR NAME HERE]
+* Chris Juarez
 * If necessary, another name here
 
 ## Table of Subtopic Ideas
